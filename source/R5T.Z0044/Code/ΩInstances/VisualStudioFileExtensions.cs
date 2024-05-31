@@ -3,6 +3,7 @@ using System;
 
 namespace R5T.Z0044
 {
+    [Obsolete("See R5T.Z0072.IFileExtensions")]
     public class VisualStudioFileExtensions : IVisualStudioFileExtensions
     {
         #region Infrastructure
